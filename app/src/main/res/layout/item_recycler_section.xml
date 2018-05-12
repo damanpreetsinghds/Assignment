@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+
+    <TextView
+        android:id="@+id/txt_header"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#57d9fff7"
+        android:padding="10dp"
+        android:gravity="start|left"
+        android:text="March 3rd - Monday"
+        android:textColor="#7ff2dc"
+        android:textSize="14sp" />
+</LinearLayout>
